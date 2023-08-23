@@ -1,12 +1,43 @@
 
 <div align="center">
 
+Hi 👋, I'm Chung Nguyen Thanh. I'm from Viet Nam
+Experiment with programming and make life simple!
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
+
+
 ![background](https://media.giphy.com/media/l4FGIMFyHhkAdmVZS/giphy.gif)
 
-<img src="https://media.giphy.com/media/l4FGIMFyHhkAdmVZS/giphy.gif" autoplay>
+
+![Cartoon Love](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif)
+
+
+<div align="left">
   
-Hi 👋, I'm Aidan Macgregor
-Experiments With Programming & making life as cheap as possible!
+Hi 👋, I'm Chung Nguyen Thanh. I'm from Viet Nam
+Experiment with programming and make life simple!
+
+###### If you have any questions, you can contact me via mail: chunhthanhde.dev@gmail.com
+```
+Dear programer
+
+when I wrote this code, only god
+and I knew how it worked
+Now, only god know it
+
+Therefore, if you are trying to optimize
+this routine and it fails (most surely),
+please increase this counter as a
+warning for the next person :(
+
+total_hours_wasted_here = 530
+ 
+ 
+Best regards
+
+ChunhThanhDe
+```
 
 <img src="https://komarev.com/ghpvc/?username=aidanmacgregor&label=Profile%20views&color=0e75b6&style=flat" alt="aidanmacgregor" /> <br>
   
