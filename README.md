@@ -99,6 +99,9 @@ ChunhThanhDe
 </a>
 <div align="center">
 </p>
+
+![Cartoon](https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif)
+
 <p>
   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChunhThanhDe&show_icons=true&locale=en&layout=compact" alt="ChunhThanhDe" />
 </p>
