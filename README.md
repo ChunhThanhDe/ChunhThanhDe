@@ -73,23 +73,23 @@ ChunhThanhDe
 
 ### Languages and Tools:
 
-<a href="https://source.android.com/" target="_blank" rel="noreferrer">
+<a href="https://source.android.com/" target="_blank" rel="aosp">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android-open-source" width="40" height="40"/>
 </a>
-<a href="https://www.linux.org/" target="_blank" rel="AOSP"> 
+<a href="https://www.linux.org/" target="_blank" rel="linux"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<a href="https://www.java.com/" target="_blank" rel="java">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://flutter.dev/" target="_blank" rel="flutter">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android-studio" width="40" height="40"/>
+<a href="https://aws.amazon.com/" target="_blank" rel="aws">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
 </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://azure.microsoft.com/" target="_blank" rel="azuze">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </a>
 </p>
   
