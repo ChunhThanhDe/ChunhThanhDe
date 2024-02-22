@@ -86,7 +86,7 @@ ChunhThanhDe
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="aws">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="aws" width="40" height="40"/>
 </a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="azuze">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
