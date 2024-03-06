@@ -1,6 +1,6 @@
 
 <div align="center">
-
+ 
 # **Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V 🤓💻**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
@@ -15,17 +15,17 @@
 </p>
 
 ```
-Dear programer
+Dear programmer
 
 when I wrote my code, only god
 and I knew how it worked
-Now, only god know it
+Now, only god knows it
 
 Therefore, if you are trying to optimize
 my code and it doesn't run
 I can only wish you luck :))
 
-Journey start time on Mar 4, 2022
+The journey starts time on Mar 4, 2022
  
  
 Best regards
@@ -50,47 +50,34 @@ ChunhThanhDe
 
 📚 I’m currently learning **AOSP** **Flutter** **Java web**
 
-👯 II'm looking to collaborate on web, andorid, flutter application software projects via mail **chunhthanhde.dev@gmail.com**
+👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
 
 👨‍💻 All of my projects are available at [My Github](https://github.com/ChunhThanhDe)
 
 💬 Ask me about **Anything**
 
 📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype]()
+</p>
 
 ### Connect with me:
-  
-<a href="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/19833472/chunh-thanh-de" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Chunh Thanh De" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/Changtrainhaycam.Chung" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aidanmacgregor" height="30" width="40" />
-</a>
-</p>
+
+<div style="overflow: auto;">
+  <a href="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/">
+    <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/19833472/chunh-thanh-de">
+    <img align="left" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
+  </a>
+</div>
+<br>
+<br>
 
 ### Languages and Tools:
 
-<a href="https://source.android.com/" target="_blank" rel="aosp">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="android-open-source" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="linux"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com/" target="_blank" rel="java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev/" target="_blank" rel="flutter">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="aws">
-  <img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="azuze">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,flutter,spring,idea,androidstudio,mysql,mongodb,firebase,linux,docker,aws,azure" />
+  </a>
 </p>
   
 ### Support:
