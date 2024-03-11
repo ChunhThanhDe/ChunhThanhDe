@@ -1,4 +1,3 @@
-
 <div align="center">
  
 # **Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V 🤓💻**
@@ -84,19 +83,13 @@ ChunhThanhDe
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
 </a>
-<div align="center">
-</p>
+<br>
+<br>
 
-![Cartoon](https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif)
-
-<p>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChunhThanhDe&show_icons=true&locale=en&layout=compact" alt="ChunhThanhDe" />
-</p>
-<p>&nbsp;
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en" alt="ChunhThanhDe" />
-</p>
-<p>
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&" alt="ChunhThanhDe" />
+<p align="center">
+  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 150px;" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en" alt="ChunhThanhDe" style="height: 150px;" />
 </p>
   
 </div>
