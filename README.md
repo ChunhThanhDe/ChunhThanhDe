@@ -87,9 +87,9 @@ ChunhThanhDe
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 150px;" />
+  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 160px;" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en" alt="ChunhThanhDe" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
 </p>
   
 </div>
