@@ -6,6 +6,8 @@
 
 ![Cartoon Love](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif)
 
+</div>
+
 <div align="left">
  
 #### Hi 👋, my name is Chung Nguyen Thanh. I am from VietNam and I am a programmer with the desire to make life simpler!
@@ -31,14 +33,14 @@ Best regards
 
 ChunhThanhDe
 ```
-
+</div>
 <div align="center">
   
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
   
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
 
-
+</div>
 <div align="left">
   
 ### Information:
@@ -90,6 +92,17 @@ ChunhThanhDe
   <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 160px;" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
-</p>
 </p> 
+<br>
+<br>
+</div>
+<div align="center">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="quotes-github-readme">
+</p>
+
+---
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
