@@ -77,7 +77,7 @@ from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="ChunhThanhDe.github.io">
     <img src="https://skillicons.dev/icons?i=java,flutter,spring,idea,androidstudio,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
