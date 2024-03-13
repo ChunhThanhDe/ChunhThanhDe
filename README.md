@@ -52,14 +52,13 @@ from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
 📚 I’m currently learning **AOSP** **Flutter** **Java web**
 
-👯 I'm looking to collaborate on web, android, and flutter application software projects via mail *
-*chunhthanhde.dev@gmail.com**
+👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
 
 👨‍💻 All of my projects are available at [My Github](https://github.com/ChunhThanhDe)
 
 💬 Ask me about **Anything**
 
-📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype]()
+📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
 
 ### Connect with me:
 
