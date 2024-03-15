@@ -48,7 +48,7 @@ ChunhThanhDe
 🎓 I graduated with a bachelor's degree in electronics and telecommunications
 from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
-🏢 I'm currently working in [HEC - VNPT Technology](https://vnpt-technology.vn/vi)
+🏢 I'm currently working in [HEC - VNPT Technology](https://odm.vnpt-technology.vn/)
 
 📚 I’m currently learning **AOSP** **Flutter** **Java web**
 
