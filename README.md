@@ -38,7 +38,7 @@ ChunhThanhDe
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
+<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
 
 </div>
 <div align="left">
@@ -76,7 +76,7 @@ from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 ### Languages and Tools:
 
 <p align="left">
-  <a href="ChunhThanhDe.github.io">
+  <a href="https://ChunhThanhDe.github.io">
     <img src="https://skillicons.dev/icons?i=java,flutter,spring,idea,androidstudio,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
