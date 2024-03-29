@@ -32,12 +32,13 @@ Best regards
 
 ChunhThanhDe
 
-*I'm just joking, if you have any questions, feel free to ask me. 👯*
-
 ```
 
 </div>
+
 <div align="center">
+ 
+###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
 
