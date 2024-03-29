@@ -10,7 +10,7 @@
 
 <div align="left">
 
-#### Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and I'm a programmer with the desire to make life simpler and more enjoyable!
+#### Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and a programmer who wants to make life simpler and more enjoyable!
 
 ###### If you have any questions or want to cooperate, you can contact me via mail: chunhthanhde.dev@gmail.com
 
@@ -31,6 +31,9 @@ The journey starts time on Mar 4, 2022
 Best regards
 
 ChunhThanhDe
+
+*I'm just joking, if you have any questions, feel free to ask me. 👯*
+
 ```
 
 </div>
