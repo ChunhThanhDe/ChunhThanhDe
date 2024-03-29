@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V 🤓💻 ![GIF Icon][/media/Developer.gif] **
+# **Google & Stackoverflow, Github,... & Ctrl+C & Ctrl+V 🤓💻**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
 
@@ -22,7 +22,7 @@ and I knew how it worked
 Now, only god knows it
 
 Therefore, if you are trying to optimize
-my code and it doesn't run      
+my code and it doesn't run
 I can only wish you luck :))
 
 The journey starts time on Mar 4, 2022
@@ -48,20 +48,17 @@ ChunhThanhDe
 
 ### Information:
 
-🎓 I graduated with a bachelor's degree in electronics and telecommunications
-from [Hanoi University of Science and Technology](https://hust.edu.vn/)
+🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
 📚 I’m currently learning **AOSP** **Flutter** **Java web**
 
-👯 I'm looking to collaborate on web, android, and flutter application software projects via mail *
-*chunhthanhde.dev@gmail.com**
+👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
 
 👨‍💻 All of my projects are available at [My Github](https://github.com/ChunhThanhDe)
 
 💬 Ask me about **Anything**
 
-📫 How to reach me **chunhthanhde.dev@gmail.com** or message me
-via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
+📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
 
 ### Connect with me:
 
