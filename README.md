@@ -51,7 +51,9 @@ ChunhThanhDe
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
-📚 I’m currently learning **AOSP** **Flutter** **Java web**
+🏢 I'm currently working in [HEC - VNPT Technology](https://odm.vnpt-technology.vn/)
+
+📚 I’m currently learning **AOSP** **Android** **Flutter** **Java web**
 
 👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
 
