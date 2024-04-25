@@ -40,14 +40,21 @@ ChunhThanhDe
  
 ###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
 
-<img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
+<p>
+ <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <be>
+   &nbsp;
+ <img src="https://img.shields.io/github/followers/chunhthanhde?label=follow&style=social" alt="chunhthanhde" /> <be>
+</p>
 
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 160px;" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
+ </p>
 </div>
 <div align="left">
 
-### Information:
+### 🌟 About me
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
@@ -63,20 +70,7 @@ ChunhThanhDe
 
 📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
 
-### Connect with me:
-
-<div style="overflow: auto;">
-  <a href="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/">
-    <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/19833472/chunh-thanh-de">
-    <img align="left" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-  </a>
-</div>
-<br>
-<br>
-
-### Languages and Tools:
+### 🛠 Languages and Tools
 
 <p align="left">
   <a href="https://ChunhThanhDe.github.io">
@@ -84,7 +78,7 @@ ChunhThanhDe
   </a>
 </p>
 
-### Support:
+### ❤️ Support
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
@@ -92,14 +86,6 @@ ChunhThanhDe
 <br>
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 160px;" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
- </p>
-<br>
-<br>
-</div>
 <div align="center">
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="quotes-github-readme">
