@@ -10,7 +10,7 @@
 
 <div align="left">
 
-#### Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and a programmer who wants to make life simpler and more enjoyable!
+#### Hi 👋, my name is Chung Nguyen Thanh. I'm a programmer from Vietnam who wants to make life simpler and more enjoyable!
 
 ###### If you have any questions or want to cooperate, you can contact me via mail: chunhthanhde.dev@gmail.com
 
@@ -77,6 +77,7 @@ ChunhThanhDe
     <img src="https://skillicons.dev/icons?i=java,flutter,spring,idea,androidstudio,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
+</div>
 
 ### ❤️ Support
 
@@ -94,5 +95,3 @@ ChunhThanhDe
 ---
 
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
