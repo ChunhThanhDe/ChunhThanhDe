@@ -42,7 +42,7 @@ ChunhThanhDe
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
 
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
+<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&margin-w=1" alt="chunhthanhde" /></a>
 
 </div>
 <div align="left">
@@ -56,7 +56,7 @@ ChunhThanhDe
 <br>
 <br>
 
-<p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Andorid framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
+<p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Android framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
 ### 🌟 Information
 
