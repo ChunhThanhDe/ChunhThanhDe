@@ -42,7 +42,7 @@ ChunhThanhDe
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
 
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews" alt="chunhthanhde" /></a>
+<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="chunhthanhde" /></a>
 
 </div>
 <div align="left">
