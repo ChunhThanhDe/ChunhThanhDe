@@ -10,7 +10,7 @@
 
 <div align="left">
 
-#### Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and a programmer who wants to make life simpler and more enjoyable!
+#### Hi 👋, my name is Chung Nguyen Thanh. I'm a programmer from Vietnam who wants to make life simpler and more enjoyable!
 
 ###### If you have any questions or want to cooperate, you can contact me via mail: chunhthanhde.dev@gmail.com
 
@@ -67,9 +67,9 @@ ChunhThanhDe
 📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
 
 [![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cogailatte)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenthanhthien/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiennt.1997@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chunhthanhde)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chunhthanhde/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chunhthanhde.dev@gmail.com)
 
 <be>
 
@@ -114,7 +114,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
  </p>
-<br>
 <br>
 </div>
 <div align="center">
