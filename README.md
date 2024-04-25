@@ -47,7 +47,7 @@ ChunhThanhDe
 </div>
 <div align="left">
 
-### Information:
+### 🌟 Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
@@ -61,22 +61,14 @@ ChunhThanhDe
 
 💬 Ask me about **Anything**
 
-📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
+📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
 
-### Connect with me:
+[![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cogailatte)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenthanhthien/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiennt.1997@gmail.com)
 
-<div style="overflow: auto;">
-  <a href="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/">
-    <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/19833472/chunh-thanh-de">
-    <img align="left" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-  </a>
-</div>
-<br>
-<br>
-
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 <p align="left">
   <a href="https://ChunhThanhDe.github.io">
@@ -84,7 +76,7 @@ ChunhThanhDe
   </a>
 </p>
 
-### Support:
+### 🤝 Support
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
