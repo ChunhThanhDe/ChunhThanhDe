@@ -37,7 +37,7 @@ ChunhThanhDe
 </div>
 
 <div align="center">
- 
+
 ###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
@@ -49,7 +49,15 @@ ChunhThanhDe
 
 ---
 
-## ⚡ Multi-talented Software Developer from Vietnam 
+## ⚡ Multi-talented Software Developer from Vietnam
+
+<img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe.github.io/master/assets/me.png" align="center" width="80px" alt=" Chung Nguyễn Thành">
+
+<br>
+<br>
+
+<p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Andorid framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
+
 ### 🌟 Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
@@ -83,10 +91,11 @@ ChunhThanhDe
 
 ---
 
-## ⚡ 2 years of experience in a software development position 
+## ⚡ 2 years of experience in a software development position
+
 ### ✨ How I Work
 
-As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code. 
+As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code.
 
 I have a good understanding and skills in using Flutter, Dart, Java, and Spring Boot to design and create cross-platform systems and applications that deliver engaging, user-friendly digital experiences.
 
@@ -97,6 +106,7 @@ What sets me apart is my unwavering dedication - meticulous, driven, and support
 For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub.
 
 ### ⚡ Growing up - Community activist
+
 - [Greethy - Sống khỏe Việt](https://www.facebook.com/greethy.project) (Founder): an organization that develops healthy nutritional lifestyles in Vietnam
 
 ---
