@@ -10,44 +10,26 @@
 
 <div align="left">
 
-#### Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and a programmer who wants to make life simpler and more enjoyable!
+### ⚡ Multi-talented Software Developer from Vietnam
+
+<p> Hi 👋, my name is Chung Nguyen Thanh. I'm from Vietnam and a programmer who wants to make life simpler and more enjoyable! </p>
 
 ###### If you have any questions or want to cooperate, you can contact me via mail: chunhthanhde.dev@gmail.com
-
-```
-Dear programmer
-
-when I wrote my code, only god
-and I knew how it worked
-Now, only god knows it
-
-Therefore, if you are trying to optimize
-my code and it doesn't run
-I can only wish you luck :))
-
-The journey starts time on Mar 4, 2022
- 
- 
-Best regards
-
-ChunhThanhDe
-
-```
 
 </div>
 
 <div align="center">
- 
-###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
-
-<img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
-
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde" alt="chunhthanhde" /></a>
+<br>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <be>
+   &nbsp;
+ <img src="https://img.shields.io/github/followers/chunhthanhde?label=follow&style=social" alt="chunhthanhde" /> <be>
+</p>
 
 </div>
 <div align="left">
 
-### Information:
+### 🌟 About me
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
@@ -63,19 +45,6 @@ ChunhThanhDe
 
 📫 How to reach me **chunhthanhde.dev@gmail.com** or message me via [Skype](https://join.skype.com/invite/rdKrZGo3Mdk1)
 
-### Connect with me:
-
-<div style="overflow: auto;">
-  <a href="https://www.linkedin.com/in/chung-nguyen-thanh-313b97263/">
-    <img align="left" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/19833472/chunh-thanh-de">
-    <img align="left" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-  </a>
-</div>
-<br>
-<br>
-
 ### Languages and Tools:
 
 <p align="left">
@@ -84,7 +53,26 @@ ChunhThanhDe
   </a>
 </p>
 
-### Support:
+### 🛠 Everything everywhere all at once
+
+| **Category** | **Skills** |
+| - | - |
+| **Languages** | [![Vietnamese](https://img.shields.io/static/v1?label=&message=Vietnamese&color=0xFF61770E)](#) [![English](https://img.shields.io/static/v1?label=&message=English&color=0xFF61770E)](#) |
+| **Progamming Languages**  | [![Java](https://img.shields.io/static/v1?label=&message=Java&color=0xFF61770E&logo=Android&logoColor=FFFFFF)](#) [![dart](https://img.shields.io/static/v1?label=&message=Dart&color=0xFF61770E&logo=dart&logoColor=FFFFFF)](#) [![C](https://img.shields.io/static/v1?label=&message=C&logo=C&logoColor=FFFFFF&color=0xFF61770E)](#) |
+| **Database Management**  | [![My-SQL](https://img.shields.io/static/v1?label=&message=My-SQL&color=0xFF61770E&logo=mysql&logoColor=FFFFFF)](#) [![mongodb](https://img.shields.io/static/v1?label=&message=Mongo-DB&color=0xFF61770E&logo=mongodb&logoColor=FFFFFF)](#)  |
+| **Progamming Tools** | [![Android Studio](https://img.shields.io/static/v1?label=&message=Android-Studio&color=0xFF61770E&logo=AndroidStudio&logoColor=FFFFFF)](#) [![Intellij](https://img.shields.io/static/v1?label=&message=Intellij-Idea&color=0xFF61770E&logo=intellijidea&logoColor=FFFFFF)](#) [![Visual-studio-code](https://img.shields.io/static/v1?label=&message=Visual-Studio-Code&color=0xFF61770E&logo=visualstudiocode&logoColor=FFFFFF)](#) |
+| **Technical Tools**  | [![firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=0xFF61770E&logo=firebase&logoColor=FFFFFF)](#) [![amazonaws](https://img.shields.io/static/v1?label=&message=Amazon-AWS&color=0xFF61770E&logo=amazonaws&logoColor=FFFFFF)](#) [![microsoftazure](https://img.shields.io/static/v1?label=&message=Microsoft-Azure&logo=microsoftazure&logoColor=FFFFFF&color=0xFF61770E)](#) |
+| **Diagrams / Design** | [![Photoshop](https://img.shields.io/static/v1?label=&message=Photoshop&color=0xFF61770E&logo=AdobePhotoshop&logoColor=FFFFFF)](#) [![Canva](https://img.shields.io/static/v1?label=&message=Canva&color=0xFF61770E&logo=Canva&logoColor=FFFFFF)](#) [![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=0xFF61770E&logo=Figma&logoColor=FFFFFF)](#) [![Diagrams](https://img.shields.io/static/v1?label=&message=Diagrams&color=0xFF61770E&logo=Diagrams.net&logoColor=FFFFFF)](#) |
+| **Front-end / Mobile App** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=0xFF61770E&logo=Flutter&logoColor=FFFFFF)](#) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=0xFF61770E&logo=Android&logoColor=FFFFFF)](#)|
+| **Back-end** | [![springboot](https://img.shields.io/static/v1?label=&message=Spring-Boot&color=0xFF61770E&logo=springboot&logoColor=FFFFFF)](#) |
+| **AI Tools** | [![poe](https://img.shields.io/static/v1?label=&message=Poe&color=0xFF61770E&logo=poe&logoColor=FFFFFF)](#) [![googlegemini](https://img.shields.io/static/v1?label=&message=Google-Gemini&color=0xFF61770E&logo=googlegemini&logoColor=FFFFFF)](#) |
+
+## 📫 Contact me, if you dare
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cogailatte)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenthanhthien/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiennt.1997@gmail.com)
+### Support
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
