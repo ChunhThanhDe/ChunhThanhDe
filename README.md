@@ -47,6 +47,9 @@ ChunhThanhDe
 </div>
 <div align="left">
 
+---
+
+## ⚡ Multi-talented Software Developer from Vietnam 
 ### 🌟 Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
@@ -68,15 +71,37 @@ ChunhThanhDe
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenthanhthien/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiennt.1997@gmail.com)
 
+<be>
+
 ### 🔧 Languages and Tools:
 
 <p align="left">
   <a href="https://ChunhThanhDe.github.io">
-    <img src="https://skillicons.dev/icons?i=java,flutter,spring,idea,androidstudio,mysql,mongodb,firebase,linux,docker,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,postman,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
 
-### 🤝 Support
+---
+
+## ⚡ 2 years of experience in a software development position 
+### ✨ How I Work
+
+As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code. 
+
+I have a good understanding and skills in using Flutter, Dart, Java, and Spring Boot to design and create cross-platform systems and applications that deliver engaging, user-friendly digital experiences.
+
+What sets me apart is my unwavering dedication - meticulous, driven, and supportive, always ready to collaborate and tackle problems head-on. Rapid learning and high-speed knowledge assimilation are part of my DNA, propelling projects toward shared success with my critical thinking and rich professional knowledge.
+
+### ✨ Highlighted Projects
+
+For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub.
+
+### ⚡ Growing up - Community activist
+- [Greethy - Sống khỏe Việt](https://www.facebook.com/greethy.project) (Founder): an organization that develops healthy nutritional lifestyles in Vietnam
+
+---
+
+## 🤝 Support
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
