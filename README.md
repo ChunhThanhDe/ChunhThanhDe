@@ -114,7 +114,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 ---
 
-## 🤝 Support
+### 🔥 Support
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
@@ -136,6 +136,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 ---
 
-### Show some ❤️ by starring some of the repositories!
+### Show some 🌟 by starring some of the repositories!
 
 </div>
