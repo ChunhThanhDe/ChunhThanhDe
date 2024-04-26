@@ -88,7 +88,7 @@ ChunhThanhDe
 
 <p align="left">
   <a href="https://ChunhThanhDe.github.io">
-    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,postman,mysql,mongodb,firebase,linux,docker,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
 
