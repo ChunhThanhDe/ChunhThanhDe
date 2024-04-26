@@ -73,7 +73,7 @@ ChunhThanhDe
 
 💬 Ask me about **Anything**
 
-🗣️ Languages Vietnamese 🇻🇳, English 🇬🇧
+🗣️ Languages Vietnamese 🇻🇳 English 🇬🇧
 
 📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
 
