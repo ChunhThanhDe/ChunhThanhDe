@@ -136,6 +136,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 ---
 
-### Show some 🌟 by starring some of the repositories!
+### Show some ❤️ by starring 🌟 some of the repositories!
 
 </div>
