@@ -49,9 +49,11 @@ ChunhThanhDe
 
 ---
 
-## ⚡ Multi-talented Software Developer from Vietnam
+## ⚡ Multi-talented Software Developer from Vietnam 
 
-<a href="[https://ChunhThanhDe.github.io](https://www.linkedin.com/in/chunhthanhde/)">
+<be>
+ 
+<a href="https://www.linkedin.com/in/chunhthanhde/">
  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe.github.io/master/assets/me.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
 </a>
 
@@ -114,7 +116,9 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 ---
 
-### 🔥 Support
+### Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<be>
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
