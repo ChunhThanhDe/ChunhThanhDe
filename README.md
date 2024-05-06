@@ -94,9 +94,10 @@ ChunhThanhDe
   </a>
 </p>
 
----
 <details close>
 <summary> 🚀 See more 💥💥💥 </summary>
+
+---
 
 ## ⚡ 2 years of experience in a software development position
 
@@ -117,9 +118,10 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 - [Greethy - Sống khỏe Việt](https://www.facebook.com/greethy.project) (Founder): an organization that develops healthy nutritional lifestyles in Vietnam
 
 ---
+
 </details>
 
-## Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🤙 Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <be>
 
