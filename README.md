@@ -157,7 +157,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 </details>
 
-## 🤙 Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## ⛑️ Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <be>
 
