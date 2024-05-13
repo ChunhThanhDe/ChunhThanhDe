@@ -101,6 +101,42 @@ ChunhThanhDe
 
 ## ⚡ 2 years of experience in a software development position
 
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center">
+    <img  align="center"  src="https://leetcard.jacoblin.cool/ChunhThanhDe?theme=dark&font=ABeeZee&ext=heatmap" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" /> 
+  </td>
+  
+  <td width="50%" align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChunhThanhDe&theme=dark" alt="1999AZZAR :: Top Langs by repo" />
+    <br></br>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChunhThanhDe&theme=dark" alt="1999AZZAR :: Top Langs by commit" />
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<br>
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://" title="Go to Source">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChunhThanhDe&theme=dark" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+
 ### ✨ How I Work
 
 As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code.
