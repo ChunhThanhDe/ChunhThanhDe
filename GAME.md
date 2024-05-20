@@ -10,7 +10,10 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 
 ---
 <a name="root"></a><br/><br/><br/>
-[⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/>
+[⬜](#1) [⬜](#2) [⬜](#3)
+[⬜](#4) [⬜](#5) [⬜](#6)
+[⬜](#7) [⬜](#8) [⬜](#9)
+<br/><br/><br/><br/>
 
 <details close> 
 
