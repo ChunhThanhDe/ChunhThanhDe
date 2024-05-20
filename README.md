@@ -2082,7 +2082,7 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <a name="950"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
 
 ---
 <a name="bottom"></a> [Take me to the top](#top)
