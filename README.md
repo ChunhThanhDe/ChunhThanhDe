@@ -61,41 +61,8 @@ ChunhThanhDe
 
 <p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Android framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
-### 🌟 Information
-
-🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
-
-🏢 Currently, I am a software development engineer working at [HEC - VNPT Technology](https://odm.vnpt-technology.vn/)
-
-📚 I’m currently learning **AOSP** **Android** **Flutter** **Java web**
-
-👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
-
-👨‍💻 All of my projects are available at [My Github](https://github.com/ChunhThanhDe)
-
-💬 Ask me about **Anything**
-
-🗣️ Languages Vietnamese 🇻🇳 English 🇬🇧
-
-📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
-
-[![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chunhthanhde)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chunhthanhde/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chunhthanhde.dev@gmail.com)
-
-<be>
-
-### 🔧 Programming Languages and Tools:
-
-<p align="left">
-  <a href="https://ChunhThanhDe.github.io">
-    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,mysql,mongodb,firebase,linux,docker,aws,azure" />
-  </a>
-</p>
-
 <details close> 
-<summary>See more 🚀 💥💥💥</summary>
+<summary><em><u>See more 🚀💥</u></em></summary>
 
 ---
 
@@ -161,6 +128,39 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 </details>
 
+### 🌟 Information
+
+🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
+
+🏢 Currently, I am a software development engineer working at [HEC - VNPT Technology](https://odm.vnpt-technology.vn/)
+
+📚 I’m currently learning **AOSP** **Android** **Flutter** **Java web**
+
+👯 I'm looking to collaborate on web, android, and flutter application software projects via mail **chunhthanhde.dev@gmail.com**
+
+👨‍💻 All of my projects are available at [My Github](https://github.com/ChunhThanhDe)
+
+💬 Ask me about **Anything**
+
+🗣️ Languages Vietnamese 🇻🇳 English 🇬🇧
+
+📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
+
+[![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chunhthanhde)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chunhthanhde/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chunhthanhde.dev@gmail.com)
+
+<be>
+
+### 🔧 Programming Languages and Tools:
+
+<p align="left">
+  <a href="https://ChunhThanhDe.github.io">
+    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,mysql,mongodb,firebase,linux,docker,aws,azure" />
+  </a>
+</p>
+
 ## 🕹 Game challenge 
 
 <a name="top"></a>
@@ -173,12 +173,13 @@ My move would be the one at the top that you see 🔝.
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
 
 <details close> 
-<summary> Start Game 🎮</summary>
-
+<summary> Start Game 🎮💥😎</summary>
+<br/>
+ 
 [Take me to the bottom](#bottom)
 
 ---
-<a name="root"></a><br/><br/><br/>
+<a name="root"></a><br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/><br/><br/><br/>
 <a name="1"></a><br/><br/><br/>
 ✖️ [⬜](#10) [⬜](#11)<br/>[⬜](#12) ⭕ [⬜](#13)<br/>[⬜](#14) [⬜](#15) [⬜](#16)<br/><br/><br/><br/><br/><br/><br/>
@@ -2081,10 +2082,9 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <a name="950"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/>
 
 ---
-
 <a name="bottom"></a> [Take me to the top](#top)
 
 </details>
