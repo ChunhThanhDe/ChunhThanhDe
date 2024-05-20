@@ -95,7 +95,7 @@ ChunhThanhDe
 </p>
 
 <details close> 
-<summary><em><u> See more 🚀 💥💥💥</u></em></summary>
+<summary>See more 🚀 💥💥💥</summary>
 
 ---
 
@@ -147,7 +147,7 @@ As a qualified software developer, I always accumulate skills, and experience in
 
 I have a good understanding and skills in using Flutter, Dart, Java, and Spring Boot to design and create cross-platform systems and applications that deliver engaging, user-friendly digital experiences.
 
-What sets me apart is my unwavering dedication - meticulous, driven, and supportive, always ready to collaborate and tackle problems head-on. Rapid learning and high-speed knowledge assimilation are part of my DNA, propelling projects toward shared success with my critical thinking and rich professional knowledge.
+My unwavering dedication sets me apart - meticulous, driven, and supportive, always ready to collaborate and tackle problems head-on. Rapid learning and high-speed knowledge assimilation are part of my DNA, propelling projects toward shared success with my critical thinking and rich professional knowledge.
 
 ### ✨ Highlighted Projects
 
@@ -164,15 +164,16 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 ## 🕹 Game challenge 
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe.
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
+I challenge you to a game of Tic-Tac-Toe 🥊.
+The loser must star 🌟 all of the repositories winner's repos!
 
-Xs go first, click one of the nine boxes to make your move.
+You are ❌ and you go first, click on one of the nine boxes to make your move. 
+My move would be the one at the top that you see 🔝.
 
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
 
 <details close> 
-<summary> Start Game 🚀 💥💥💥</summary>
+<summary> Start Game 🎮</summary>
 
 [Take me to the bottom](#bottom)
 
