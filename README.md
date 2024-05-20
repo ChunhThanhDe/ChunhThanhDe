@@ -139,6 +139,12 @@ ChunhThanhDe
 
 ### ✨ How I Work
 
+<a href="https://moon-svg.minung.dev">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+</a>
+
+Son of the moon. Bring solar energy 🐱‍🏍
+
 As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code.
 
 I have a good understanding and skills in using Flutter, Dart, Java, and Spring Boot to design and create cross-platform systems and applications that deliver engaging, user-friendly digital experiences.
