@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
 
-![Cartoon Love](https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif)
+![Cartoon Love](media/bug.gif)
 
 </div>
 
@@ -2100,7 +2100,7 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/unXVP9KGQLkFW/giphy.gif" alt="Cartoon" style="height: 160px;" />
+  <img src="media/hahaha.gif" alt="Cartoon" style="height: 160px;" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=ChunhThanhDe&show_icons=true&locale=en&count_private=true" alt="ChunhThanhDe" style="height: 160px;" />
  </p>
