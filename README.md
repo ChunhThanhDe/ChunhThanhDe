@@ -161,9 +161,10 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
   </a>
 </p>
 
+<a name="top"></a>
+
 ## 🕹 Game challenge 
 
-<a name="top"></a>
 I challenge you to a game of Tic-Tac-Toe 🥊.
 The loser must star 🌟 all of the repositories winner's repos!
 
@@ -2084,10 +2085,12 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <a name="950"></a><br/><br/><br/>
 ⭕ ✖️ ⭕<br/>✖️ ⭕ ✖️<br/>✖️ ⭕ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
 <a name="951"></a><br/><br/><br/>
-⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/><br/>
+⭕ ✖️ ✖️<br/>✖️ ⭕ ⭕<br/>⭕ ✖️ ✖️<br/>Guess we'll call it a draw<br/>[Care to play again?](#root)<br/><br/><br/><br/><br/>
+
+<a name="bottom"></a><br/>
 
 ---
-<a name="bottom"></a> [Take me to the top](#top)
+[Take me to the top](#top)
 
 </details>
 
