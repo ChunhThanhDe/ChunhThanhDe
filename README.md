@@ -163,6 +163,8 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
   </a>
 </p>
 
+---
+
 <a name="top"></a>
 
 ## 🕹 Game challenge 
