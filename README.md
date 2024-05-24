@@ -92,7 +92,7 @@ ChunhThanhDe
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="https://" title="Go to Source">
+  <a href="https://chunhthanhde.github.io" title="Go to Source">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChunhThanhDe&theme=dark" alt="TROPHY" />
     </a>
 </div>
@@ -104,10 +104,11 @@ ChunhThanhDe
 
 ### ✨ How I Work
 
-<a href="https://moon-svg.minung.dev">
-  <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" />
+<a href="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0">
+  <img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0" alt="moon.svg" />
 </a>
 
+<br/>
 <br/>
 
 Son of the moon. Bring solar energy 🐱‍🏍
