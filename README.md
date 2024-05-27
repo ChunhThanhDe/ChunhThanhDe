@@ -173,7 +173,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 I challenge you to a game of Tic-Tac-Toe 🥊.
 The loser must star 🌟 all of the repositories winner's repos!
 
-You are ❌ and you go first, click on one of the nine boxes to make your move. 
+You are ❌ and you go first, click on one of the nine boxes in first-step to make your move. 
 My move would be the one at the top that you see 🔝.
 
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
@@ -185,7 +185,10 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <br/>
 
 ---
-<br/><br/><br/>
+<br/>
+first step  🥇🥈🥉
+<br/>
+<br/>
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/>
 [End Game - Take me to the bottom](#bottom)
 <br/><br/><br/><br/><br/>
