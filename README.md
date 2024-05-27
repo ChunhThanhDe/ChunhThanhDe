@@ -178,17 +178,17 @@ My move would be the one at the top that you see 🔝.
 
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all of the emojis._
 
+<a name="root"></a>
+
 <details close> 
 <summary> Start Game 🎮💥😎</summary>
 <br/>
- 
-<a name="root"></a>
-
-[Take me to the bottom](#bottom)
 
 ---
 <br/><br/><br/>
-[⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/><br/><br/><br/><br/><br/>
+[⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/>
+[End Game - Take me to the bottom](#bottom)
+<br/><br/><br/><br/><br/>
 <a name="1"></a><br/><br/><br/>
 ✖️ [⬜](#10) [⬜](#11)<br/>[⬜](#12) ⭕ [⬜](#13)<br/>[⬜](#14) [⬜](#15) [⬜](#16)<br/><br/><br/><br/><br/><br/><br/>
 <a name="2"></a><br/><br/><br/>
