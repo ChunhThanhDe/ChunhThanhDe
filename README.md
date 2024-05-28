@@ -185,10 +185,8 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 <br/>
 
 ---
-<br/>
-first step  🥇🥈🥉
-<br/>
-<br/>
+<br/>first step  🥇🥈🥉<br/><br/>
+
 [⬜](#1) [⬜](#2) [⬜](#3)<br/>[⬜](#4) [⬜](#5) [⬜](#6)<br/>[⬜](#7) [⬜](#8) [⬜](#9)<br/><br/>
 [End Game - Take me to the bottom](#bottom)
 <br/><br/><br/><br/><br/>
