@@ -160,7 +160,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub
 
 <p align="left">
   <a href="https://ChunhThanhDe.github.io">
-    <img src="https://skillicons.dev/icons?i=java,c,flutter,spring,idea,androidstudio,vscode,mysql,mongodb,firebase,linux,docker,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=c,java,kotlin,flutter,spring,idea,androidstudio,vscode,mysql,mongodb,firebase,linux,docker,aws,azure" />
   </a>
 </p>
 
