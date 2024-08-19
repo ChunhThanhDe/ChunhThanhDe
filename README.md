@@ -121,7 +121,7 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ### ✨ Highlighted Projects
 
-For more, check out [my portfolio](https://chunhthanhde.github.io/) or my GitHub.
+For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://www.linkedin.com/in/chunhthanhde/welcome) or my GitHub.
 
 ### ⚡ Growing up - Community activist
 
