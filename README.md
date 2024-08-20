@@ -54,7 +54,7 @@ ChunhThanhDe
 <be>
  
 <a href="https://www.linkedin.com/in/chunhthanhde/">
- <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe.github.io/master/assets/me.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
+ <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/media/avatar.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
 </a>
 
 ##### *Chung Nguyen Thanh - ChunhThanhDe*
