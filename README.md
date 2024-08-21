@@ -2,10 +2,10 @@
     
 # Explore Tarot with AI Magic 🔮
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=100&color=3B2A59&center=true&vCenter=true&width=800&lines=Discover+Your+Path+with+Tarot+and+Gemeni+AI+🔮+;Free+Tarot+Readings+at+Your+Fingertips+🎃!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=3B2A59&center=true&vCenter=true&width=435&lines=Discover+your+Path+with+Tarot+and+Gemeni+AI+%F0%9F%94%AE;Free+Tarot+Readings+at+Your+Fingertips+%F0%9F%8E%83!)](https://git.io/typing-svg)
 
 <a href="https://chunhthanhde.github.io/tarot-card-fortune-telling/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/main/Personal%20Project/Tarot-Telling/tarot.png" alt="Mystic Tarot" style="max-width: 500px;"/>
+    <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/main/Personal%20Project/Tarot-Telling/tarot.png" alt="Mystic Tarot" style="max-width: 400px;"/>
 </a>
 
 <br>
