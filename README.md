@@ -1,44 +1,36 @@
 <div align="center">
 
-# **Google & StackOverflow, GitHub,... Learn and Practice 👨‍💻**
+# **Explore Tarot with AI Magic 🔮**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=33B86F&center=true&vCenter=true&width=800&lines=Why+do+programmers+prefer+dark+mode%3F++;Because+light+attracts+bugs!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=100&color=3B2A59&center=true&vCenter=true&width=800&lines=Discover+Your+Path+with+Tarot+and+Gemeni+AI+🔮+;Free+Tarot+Readings+at+Your+Fingertips+🎃!)
 
-![Cartoon Love](media/bug.gif)
+<a href="https://chunhthanhde.github.io/tarot-card-fortune-telling/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/main/Personal%20Project/Tarot-Telling/tarot.png" alt="Mystic Tarot" style="max-width: 600px;"/>
+</a>
+
+<br>
+
+###### *Step into the mystical world of Tarot, where technology and tradition unite to reveal the secrets of the universe. 🌟*
+
+<br>
 
 </div>
 
 <div align="left">
 
-#### Hi 👋, my name is Chung Nguyen Thanh. I'm a programmer from Vietnam who wants to make life simpler and more enjoyable!
+Welcome to my free Tarot reading web app ✨, where ancient wisdom 📜 meets cutting-edge AI 🤖. Whether you're seeking clarity 🔍, guidance 🌟, or simply curious about what the cards have to say 🃏, Gemeni AI is here to illuminate your path 🌠.
 
-###### If you have any questions or want to cooperate, you can contact me via mail: chunhthanhde.dev@gmail.com
+This platform is designed for everyone—from the Tarot curious 🌱 to the seasoned reader 🧙‍♂️. With just a few clicks, you can explore your fortune 🔮, gain insights into your life's journey 🚀, and connect with the mystical energy of the Tarot 🌌.
 
-```
-Dear programmer
+Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-card-fortune-telling/)
 
-when I wrote my code, only god
-and I knew how it worked
-Now, only god knows it
-
-Therefore, if you are trying to optimize
-my code and it doesn't run
-I can only wish you luck :))
-
-The journey starts time on Mar 4, 2022
- 
- 
-Best regards
-
-ChunhThanhDe
-
-```
+##### Have questions or want to collaborate? Reach out to me via email 📧: chunhthanhde.dev@gmail.com
 
 </div>
 
 <div align="center">
 
-###### *I'm just joking, if you have any questions, feel free to ask me. 👯*
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
 
