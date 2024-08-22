@@ -148,6 +148,8 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 <be>
 
+<a href="https://discord.com/users/753815467554111588" target="_blank"><img align="center"  src="https://discord.c99.nl/widget/theme-3/753815467554111588.png"/></a>
+
 ### 🔧 Programming Languages and Tools:
 
 <p align="left">
