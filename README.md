@@ -32,7 +32,11 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 
 <br>
 
-<!-- <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a>  -->
+<a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="text-decoration: none;">
+  <img src="media/send.webp" style="vertical-align: middle;" width="50" height="50">
+  <span style="vertical-align: middle;">Leave me a message </span>
+  <img src="media/send.webp" style="vertical-align: middle;" width="50" height="50">
+</a>
 
 <!-- Guestbook -->
 | Name | Date | Message |
