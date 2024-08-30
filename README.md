@@ -30,8 +30,6 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 
 <div align="center">
 
-<br>
-
 <h3 style="display: inline; vertical-align: middle;">
   <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/2#issuecomment-new" style="text-decoration: none;">
    Leave me a message 📧
