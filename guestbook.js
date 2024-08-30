@@ -26,7 +26,7 @@ module.exports = async ({github, context}) => {
   const renderComments = (comments) => {
     return comments.reduce((prev, curr) => {
       let sanitizedText = curr.bodyText.replace('<', '&lt;').replace('>', '&gt;').replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;').replace('[', '&#91;');
-      return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" /><br />${curr.author.login}]  (${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
+      return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" />  ${curr.author.login}](${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
     }, "| Name | Date | Message |\n|---|---|---|\n");
   };
 
