@@ -31,7 +31,7 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 <div align="center">
 
 <h3 style="display: inline; vertical-align: middle;">
-  <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/2#issuecomment-new" style="text-decoration: none;">
+  <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="text-decoration: none;">
    Leave me a message 📧
   </a>
 </h3>
