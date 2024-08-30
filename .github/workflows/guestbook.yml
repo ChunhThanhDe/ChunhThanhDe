@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Update guestbook from comments
         uses: actions/github-script@v6
         with:
@@ -60,5 +60,6 @@ jobs:
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am ':sparkles: update guestbook'
+          git add README.md
+          git commit -m ':sparkles: update guestbook' || echo "No changes to commit"
           git push
