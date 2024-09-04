@@ -70,7 +70,7 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 
 ##### *Chung Nguyen Thanh - ChunhThanhDe*
 
-<p> If you are looking for an Android-embedded software development engineer with experience in AOSP, Android framework, and Flutter App, capable of bringing value to your organization, then perhaps I am the piece of the puzzle for your organization you need to find. Nice to meet you friend. I am ready to take on new challenges with great contributions and worthy compensation. </p>
+<p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
 <details close> 
 <summary><em><u>See more 🚀💥</u></em></summary>
@@ -124,7 +124,7 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 
 Son of the moon. Bring solar energy 🐱‍🏍
 
-As a qualified software developer, I always accumulate skills, and experience in building and developing software applications and systems. I work as a software development engineer for phone and smart box products, my work includes integrating the development of system services and applications into the Android TV and AOSP source code.
+As a qualified software developer, I have consistently accumulated skills and experience in building and developing software applications and systems. Previously, I worked as a software development engineer for phone and smart box products, where my responsibilities included integrating and developing system services and applications into Android TV and AOSP source code.
 
 I have a good understanding and skills in using Flutter, Dart, Java, and Spring Boot to design and create cross-platform systems and applications that deliver engaging, user-friendly digital experiences.
 
