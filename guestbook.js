@@ -22,11 +22,18 @@ module.exports = async ({github, context}) => {
     name: context.repo.repo,
     issue_number: context.issue.number
   }
-  const result = await github.graphql(query, variables)
+  const result = await github.graphql(query, variables);
+  
   const renderComments = (comments) => {
     return comments.reduce((prev, curr) => {
       let sanitizedText = curr.bodyText.replace('<', '&lt;').replace('>', '&gt;').replace(/(\r\n|\r|\n)/g, "<br />").replace('|', '&#124;').replace('[', '&#91;');
-      return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" />  ${curr.author.login}](${curr.author.url})|${new Date(curr.updatedAt).toLocaleString()}|${sanitizedText}|\n`;
+      
+      // Convert updatedAt to a date with UTC+7 timezone
+      let date = new Date(curr.updatedAt);
+      date.setHours(date.getHours() + 7);
+      let formattedDate = date.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' });
+
+      return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" />  ${curr.author.login}](${curr.author.url})|${formattedDate} (UTC+7)|${sanitizedText}|\n`;
     }, "| Name | Date | Message |\n|---|---|---|\n");
   };
 
