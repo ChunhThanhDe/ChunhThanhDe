@@ -30,7 +30,6 @@ module.exports = async ({github, context}) => {
       
       // Convert updatedAt to a date with UTC+7 timezone
       let date = new Date(curr.updatedAt);
-      date.setHours(date.getHours() + 7);
       let formattedDate = date.toLocaleString('en-US', { timeZone: 'Asia/Ho_Chi_Minh' });
 
       return `${prev}|[<img src="${curr.author.avatarUrl}" alt="${curr.author.login}" width="24" />  ${curr.author.login}](${curr.author.url})|${formattedDate} (UTC+7)|${sanitizedText}|\n`;
