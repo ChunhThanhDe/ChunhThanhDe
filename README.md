@@ -44,7 +44,6 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|9/4/2024, 11:06:16 AM (UTC+7)|chung|
 |[<img src="https://avatars.githubusercontent.com/u/84318986?s=24&v=4" alt="NguyenVinhKhang" width="24" />  NguyenVinhKhang](https://github.com/NguyenVinhKhang)|9/4/2024, 10:54:39 AM (UTC+7)|Hi|
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|8/30/2024, 12:49:46 PM (UTC+7)|hehe|
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|8/30/2024, 12:07:24 PM (UTC+7)|Hello, is this message working? 😂😂😂|
