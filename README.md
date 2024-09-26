@@ -71,7 +71,12 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/media/avatar.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
 </a>
 
-##### *Chung Nguyen Thanh - ChunhThanhDe*
+##### *Chung Nguyen Thanh - ChunhThanhDe* 🎯
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 <p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
