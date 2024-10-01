@@ -1,4 +1,4 @@
-# Hello, Chung 🎯 here. Have a nice day! 🌤️
+# Hello, Chung🎯 here. Have a nice day! 🌤️🌤️🌤️
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://komarev.com/ghpvc/?username=ChunhThanhDe)
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](https://github.com/ChunhThanhDe)
