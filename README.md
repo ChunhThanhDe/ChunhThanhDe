@@ -1,65 +1,7 @@
-<div align="center">
-    
-# **Explore Tarot with AI Magic 🔮**
+# Hello, Chung Nguyen Thanh here 🎯
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=886CE4&center=true&vCenter=true&width=435&lines=Discover+your+Path+with+Tarot+and+Gemeni+AI+%F0%9F%94%AE;Free+Tarot+Readings+at+Your+Fingertips+%F0%9F%8E%83!)](https://git.io/typing-svg)
-
-<a href="https://chunhthanhde.github.io/tarot-card-fortune-telling/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/main/Personal%20Project/Tarot-Telling/tarot.png" alt="Mystic Tarot"  width="750"/>
-</a>
-
-<br>
-
-###### *Step into the mystical world of Tarot, where technology and tradition unite to reveal the secrets of the universe. 🌟*
-
-<br>
-
-</div>
-
-<div align="left">
-
-Welcome to my free Tarot reading web app ✨, where ancient wisdom 📜 meets cutting-edge AI 🤖. Whether you're seeking clarity 🔍, guidance 🌟, or simply curious about what the cards have to say 🃏, Gemeni AI is here to illuminate your path 🌠.
-
-This platform is designed for everyone—from the Tarot curious 🌱 to the seasoned reader 🧙‍♂️. With just a few clicks, you can explore your fortune 🔮, gain insights into your life's journey 🚀, and connect with the mystical energy of the Tarot 🌌.
-
-Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-card-fortune-telling/)
-
-##### Have questions or want to collaborate? Reach out to me via email 📧: chunhthanhde.dev@gmail.com
-
-</div>
-
-<div align="center">
-
-<h3 style="display: inline; vertical-align: middle;">
-  <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="text-decoration: none;">
-   Leave me a message 📧
-  </a>
-</h3>
-<a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new" style="text-decoration: none;">
-  <img src="media/send.webp" style="vertical-align: middle;" height="60">
-</a>
-
-<br>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-|[<img src="https://avatars.githubusercontent.com/u/110121803?s=24&u=a3d36f90d94e696f73930aa6afc0f69c2fa71cf5&v=4" alt="EstevaoAZ" width="24" />  EstevaoAZ](https://github.com/EstevaoAZ)|9/13/2024, 6:10:29 PM (UTC+7)|Hey there! It's great to get to meet you! I'm also interested in mobile development and Flutter! Happy coding 😎✌|
-|[<img src="https://avatars.githubusercontent.com/u/1105080?s=24&u=dde8ee2b184b25db43723f54823a3484ffe806a7&v=4" alt="openscript" width="24" />  openscript](https://github.com/openscript)|9/4/2024, 9:24:09 PM (UTC+7)|Always happy to see the guestbook action spreading! Happy coding 🥇|
-|[<img src="https://avatars.githubusercontent.com/u/84318986?s=24&v=4" alt="NguyenVinhKhang" width="24" />  NguyenVinhKhang](https://github.com/NguyenVinhKhang)|9/4/2024, 10:54:39 AM (UTC+7)|Hi|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|8/30/2024, 12:49:46 PM (UTC+7)|hehe|
-|[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|8/30/2024, 12:07:24 PM (UTC+7)|Hello, is this message working? 😂😂😂|
-<!-- /Guestbook -->
-
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=chunhthanhde&label=Profile%20views&color=0e75b6&style=flat" alt="chunhthanhde" /> <br>
-
-<a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="chunhthanhde" /></a>
-
-</div>
-<div align="left">
+[![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://komarev.com/ghpvc/?username=ChunhThanhDe)
+[![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](https://github.com/ChunhThanhDe)
 
 ---
 
@@ -79,9 +21,6 @@ Check it out here: [Free Tarot Readings](https://chunhthanhde.github.io/tarot-ca
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 <p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
-
-<details close> 
-<summary><em><u>See more 🚀💥</u></em></summary>
 
 ---
 
@@ -148,8 +87,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 ---
 
-</details>
-
 ### 🌟 Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
@@ -187,13 +124,18 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 ---
 
-## ⛑️ Support <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 💝 Support me, if you are comfortable with it <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<be>
+<br>
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
 </a>
+
+<a href="https://www.buymeacoffee.com/ChunhThanhDe">
+  <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
+</a>
+
 <br>
 <br>
 
@@ -211,6 +153,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 ---
 
-### Show some ❤️ by starring 🌟 some of the repositories!
+### Show some ❤️ by starring ⭐ some of the repositories!
 
 </div>
