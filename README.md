@@ -64,6 +64,8 @@
 </p>        
 <!--- stats (end) -->
 
+<br>
+
 ### ✨ How I Work
 
 <a href="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0">
@@ -83,9 +85,9 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ### ✨ Highlighted Projects
 
-For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
-
 - [Explore Tarot with AI Magic 🔮](https://chunhthanhde.github.io/tarot-card-fortune-telling/) (Creator): a free Tarot reading web app that combines ancient wisdom with cutting-edge AI technology for personalized insights.
+
+For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
 
 ### ⚡ Growing up - Community activist
 
@@ -132,7 +134,6 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 ## 💝 Support me, if you are comfortable with it <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<br>
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
   <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
@@ -144,7 +145,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 <br>
 
-## 📑 Guestbook
+### ✏️ Guestbook
 
 <!-- Guestbook -->
 | Name | Date | Message |
