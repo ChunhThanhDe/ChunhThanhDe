@@ -26,8 +26,6 @@
 
 ## ⚡ 2 years of experience in a software development position
 
-<br>
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -58,9 +56,13 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
+
+<div align="center">
+  <a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="chunhthanhde" /></a>
+
+</div>
 
 ### ✨ How I Work
 
@@ -82,6 +84,8 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 ### ✨ Highlighted Projects
 
 For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
+
+- [Explore Tarot with AI Magic 🔮](https://chunhthanhde.github.io/tarot-card-fortune-telling/) (Creator): a free Tarot reading web app that combines ancient wisdom with cutting-edge AI technology for personalized insights.
 
 ### ⚡ Growing up - Community activist
 
@@ -135,14 +139,12 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 </a>
 
 <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new">
-  <img align="centre" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/Quitline_Chat_Offline.png" height="50" width="210" alt=" me a message" />
+  <img align="centre" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/Quitline_Chat_Offline.png" height="50" width="210" alt="Leave me a message" />
 </a>
 
 <br>
 
-<br>
-
-### 📑 Guestbook
+## 📑 Guestbook
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -154,10 +156,10 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 |[<img src="https://avatars.githubusercontent.com/u/98199185?s=24&u=174b59f190c6673c5d4dd4e0eaf9004d337b31fe&v=4" alt="ChunhThanhDe" width="24" />  ChunhThanhDe](https://github.com/ChunhThanhDe)|8/30/2024, 12:07:24 PM (UTC+7)|Hello, is this message working? 😂😂😂|
 <!-- /Guestbook -->
 
+<div align="center">
+  #### *"The only thing I do know is that we have to be kind, especially when we don’t know what’s going on."*
+</div>
 
-<br>
-
-#### *"The only thing I do know is that we have to be kind, especially when we don’t know what’s going on."*
 <br>
 
 <p align="center">
