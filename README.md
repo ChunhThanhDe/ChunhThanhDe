@@ -5,9 +5,9 @@
 
 <!--START_SECTION:waka-->
 
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
+```txt
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
