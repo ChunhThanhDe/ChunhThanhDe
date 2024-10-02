@@ -6,77 +6,17 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,010 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                641 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌆 Daytime                948 commits         ██████████████░░░░░░░░░░░   57.14 % 
-🌃 Evening                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+🌞 Morning                643 commits         ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌆 Daytime                948 commits         ██████████████░░░░░░░░░░░   57.07 % 
+🌃 Evening                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   323 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Tuesday                  358 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Thursday                 262 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Friday                   284 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Saturday                 112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Sunday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
-Dart                     14 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/assets/bar_graph.png)
-
-
- Last Updated on 02/10/2024 02:56:44 UTC
 <!--END_SECTION:waka-->
 
 ---
