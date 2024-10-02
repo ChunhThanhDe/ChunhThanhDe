@@ -18,8 +18,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           SHOW_COMMIT: true
-          SHOW_TOTAL_CODE_TIME: true
-
+          
+          SHOW_TOTAL_CODE_TIME: false
           SHOW_OS: false
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
