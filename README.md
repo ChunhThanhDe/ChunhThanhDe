@@ -4,8 +4,6 @@
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](https://github.com/ChunhThanhDe)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm an Early 🐤** 
 
 ```text
