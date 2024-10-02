@@ -1,0 +1,27 @@
+name: README Info Update
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: GitHub README Generator
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ChunhThanhDe/ChunhThanhDe@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: ChunhThanhDe/ChunhThanhDe # optional
+          TIMEZONE: "Asia/Ho_Chi_Minh"
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_DAILY_COMMIT: "True"
+          SHOW_WEEKLY_COMMIT: "false"
+          SHOW_LANGUAGE: "false"
+          SHOW_TOTAL_CONTRIBUTIONS: "false"
