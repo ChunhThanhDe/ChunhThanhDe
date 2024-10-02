@@ -12,16 +12,11 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: ChunhThanhDe/ChunhThanhDe # optional
           TIMEZONE: "Asia/Ho_Chi_Minh"
-          SHOW_LINES_OF_CODE: "false"
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "false"
-          SHOW_LANGUAGE: "false"
-          SHOW_TOTAL_CONTRIBUTIONS: "false"
+          SHOW_COMMIT: true
