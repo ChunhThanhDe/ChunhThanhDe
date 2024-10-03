@@ -157,7 +157,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 <br>
 
-### ✏️ Guestbook
+### ✏️ [Guestbook](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
 
 <!-- Guestbook -->
 | Name | Date | Message |
