@@ -1,16 +1,16 @@
-# Hello, Chung🎯 here. Have a nice day! 🌤️🌤️🌤️
+# Hello, Chung[🎯](https://wakatime.com/@ChunhThanhDe) here. Have a nice day! 🌤️🌤️🌤️
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://komarev.com/ghpvc/?username=ChunhThanhDe)
-[![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](https://github.com/ChunhThanhDe)
+[![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@ChunhThanhDe)
+[![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](http://chunhthanhde.github.io/)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                645 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌆 Daytime                948 commits         ██████████████░░░░░░░░░░░   57.01 % 
-🌃 Evening                59 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-🌙 Night                  11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+🌞 Morning                647 commits         ██████████░░░░░░░░░░░░░░░   38.35 % 
+🌆 Daytime                965 commits         ██████████████░░░░░░░░░░░   57.20 % 
+🌃 Evening                63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-## ⚡ Multi-talented Software Developer from Vietnam 
+## [⚡](https://wakatime.com/@ChunhThanhDe) Multi-talented Software Developer from Vietnam 
 
 <be>
  
@@ -27,12 +27,12 @@
  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/media/avatar.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
 </a>
 
-##### *Chung Nguyen Thanh - ChunhThanhDe* 🎯
+##### *Chung Nguyen Thanh - ChunhThanhDe* [🎯](https://wakatime.com/@ChunhThanhDe)
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://wakatime.com/@ChunhThanhDe)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://wakatime.com/@ChunhThanhDe)
+[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://wakatime.com/@ChunhThanhDe)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://wakatime.com/@ChunhThanhDe)
 
 <p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
@@ -43,7 +43,7 @@
 
 ---
 
-## ⚡ 2 years of experience in a software development position
+## [⚡](http://chunhthanhde.github.io/) 2 years of experience in a software development position
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -78,7 +78,7 @@
 </p>        
 <!--- stats (end) -->
 
-### ✨ How I Work
+### [✨](https://wakatime.com/@ChunhThanhDe) How I Work
 
 <a href="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0">
   <img src="https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0" alt="moon.svg" />
@@ -95,13 +95,13 @@ I have a good understanding and skills in using Flutter, Dart, Java, and Spring 
 
 My unwavering dedication sets me apart - meticulous, driven, and supportive, always ready to collaborate and tackle problems head-on. Rapid learning and high-speed knowledge assimilation are part of my DNA, propelling projects toward shared success with my critical thinking and rich professional knowledge.
 
-### ✨ Highlighted Projects
+### [✨](http://chunhthanhde.github.io/) Highlighted Projects
 
 - [Explore Tarot with AI Magic 🔮](https://chunhthanhde.github.io/tarot-card-fortune-telling/) (Creator): a free Tarot reading web app that combines ancient wisdom with cutting-edge AI technology for personalized insights.
 
-For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
+😎  For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
 
-### ⚡ Growing up - Community activist
+### [⚡](https://www.linkedin.com/in/chunhthanhde/) Growing up - Community activist
 
 - [Greethy - Sống khỏe Việt](https://www.facebook.com/greethy.project) (Founder): an organization that develops healthy nutritional lifestyles in Vietnam
 
@@ -157,7 +157,7 @@ For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](h
 
 <br>
 
-### ✏️ Guestbook
+### ✏️ [Guestbook](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
 
 <!-- Guestbook -->
 | Name | Date | Message |
