@@ -1,5 +1,6 @@
 # Hello, Chung[🎯](https://wakatime.com/@ChunhThanhDe) here. Have a nice day! 🌤️🌤️🌤️
 
+[![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/ChunhThanhDe)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@ChunhThanhDe)
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](http://chunhthanhde.github.io/)
 
@@ -107,7 +108,7 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ---
 
-### 🌟 Information
+### [🌟](http://chunhthanhde.github.io/) Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
@@ -144,7 +145,7 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ---
 
-## 💝 Support me, if you are comfortable with it <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## [💝](https://github.com/sponsors/ChunhThanhDe) Support me, if you are comfortable with it <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
@@ -157,7 +158,7 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 <br>
 
-### ✏️ [Guestbook](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
+### [✏️](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) [Guestbook](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
 
 <!-- Guestbook -->
 | Name | Date | Message |
@@ -191,6 +192,6 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ---
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+### Show some [❤️](https://github.com/sponsors/ChunhThanhDe) by starring ⭐ some of the repositories!
 
 </div>
