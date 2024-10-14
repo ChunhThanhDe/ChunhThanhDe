@@ -99,16 +99,18 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 ### [✨](http://chunhthanhde.github.io/) Highlighted Projects
 
 - [Explore Tarot with AI Magic 🔮](https://chunhthanhde.github.io/tarot-card-fortune-telling/) (Creator): a free Tarot reading web app that combines ancient wisdom with cutting-edge AI technology for personalized insights.
+  
+- [Flutter Journey 🎯](https://github.com/Flutter-Journey) (Creator): Follow and accompany me on my Flutter journey! I share resources and take on the challenge of 100 Flutter projects to enhance skills 🏆.
 
 😎  For more, check out [my portfolio](https://chunhthanhde.github.io/), [my Blog](https://chunhthanhde.hashnode.dev/welcome) or my GitHub.
 
 ### [⚡](https://www.linkedin.com/in/chunhthanhde/) Growing up - Community activist
 
-- [Greethy - Sống khỏe Việt](https://www.facebook.com/greethy.project) (Founder): an organization that develops healthy nutritional lifestyles in Vietnam
+- [Greethy - Sống khỏe Việt 🌱](https://www.facebook.com/greethy.project) (Founder): An organization that develops healthy nutritional lifestyles in Vietnam 🇻🇳.
 
----
-
-### [🌟](http://chunhthanhde.github.io/) Information
+- [TV-Box Support 📺](https://github.com/TV-Box-Support) (Main Developer): Open Source Smart TV Software - I develop open-source software for Smart TV devices, providing support and solutions for TV Box users 💖.
+  
+## [🌟](http://chunhthanhde.github.io/) Information
 
 🎓 I graduated with a bachelor's degree in electronics and telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/)
 
