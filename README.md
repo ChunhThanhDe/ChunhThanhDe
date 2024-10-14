@@ -146,12 +146,9 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 ## 💝 Support me, if you are comfortable with it <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-<a href="https://github.com/sponsors/ChunhThanhDe">
-  <img align="centre" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/sponsor_button.png" height="50" width="210" alt="Github Sponsor of ChunhThanhDe" />
-</a>
 
 <a href="https://www.buymeacoffee.com/ChunhThanhDe">
-  <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee for ChunhThanhDe" />
+  <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChunhThanhDe" />
 </a>
 
 <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new">
