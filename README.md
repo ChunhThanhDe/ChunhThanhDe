@@ -29,6 +29,7 @@
 
 <!-- More Information Details Myself -->
 
+<br>
 <details>
 <summary> 🌈 <em>Dive deeper into getting to know me -</em> 
   <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new">
