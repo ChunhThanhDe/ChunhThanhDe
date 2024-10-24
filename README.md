@@ -1,8 +1,16 @@
-# Hello, Chung[🎯](https://wakatime.com/@ChunhThanhDe) here. Have a nice day! 🌤️🌤️🌤️
+# Hello, Chung[🎯](https://wakatime.com/@ChunhThanhDe) here. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)[🌤️](https://github.com/Flutter-Journey/)
 
 [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/ChunhThanhDe)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@ChunhThanhDe)
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](http://chunhthanhde.github.io/)
+
+<a href="https://github.com/Flutter-Journey/" target="_blank">
+    <img align="right" width="200px" height="200px" alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnptaHM4c3djd3dkeTUyZXdieXUzMTAxajFsa2I5MnRsZGk5bTc0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7RO4lHzuZRcbhET4qc/giphy.gif" />
+</a>
+
+- 🎯 I have a strong passion for Flutter and Open Source.
+- ⛅ Favorite Quote: "When you strive for something, the whole world will support you."
+- 🤪 Fun fact: I love programming so much that I create programs to automate daily tasks.
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -18,6 +26,16 @@
 
 <!--END_SECTION:waka-->
 
+
+<!-- More Information Details Myself -->
+
+<details>
+<summary> 🌈 <em>Dive deeper into getting to know me -</em> 
+  <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new">
+    <img align="center" src="https://img.shields.io/static/v1?label=Send me a message&message=%E2%9D%A4&logo=Mail&color=%23594560">
+  </a>
+</summary>
+ 
 ---
 
 ## [⚡](https://wakatime.com/@ChunhThanhDe) Multi-talented Software Developer from Vietnam 
@@ -217,3 +235,5 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 ### Show some [❤️](https://github.com/sponsors/ChunhThanhDe) by starring ⭐ some of the repositories!
 
 </div>
+
+</details> 
