@@ -59,19 +59,19 @@
 ##### [⚡](https://wakatime.com/@ChunhThanhDe) Recent Activity
 
 <!--START_SECTION:activity-->
+`[10/24 14:51 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
+`[10/24 14:48 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheAlgorithms/Dart](https://github.com/TheAlgorithms/Dart)  
 `[10/24 14:47 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/24 14:40 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/24 14:39 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
-`[10/24 12:40 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ChunhThanhDe/github-activity-readme](https://github.com/ChunhThanhDe/github-activity-readme)  
-`[10/24 12:04 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 
 <details><summary>Show More</summary>
 
+`[10/24 12:40 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ChunhThanhDe/github-activity-readme](https://github.com/ChunhThanhDe/github-activity-readme)  
+`[10/24 12:04 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[10/24 11:59 +07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/24 11:54 +07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme) to [ChunhThanhDe/github-activity-readme](https://github.com/ChunhThanhDe/github-activity-readme)  
 `[10/24 11:54 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
-`[10/24 11:27 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flutter/io_flip](https://github.com/flutter/io_flip)  
-`[10/24 11:25 +07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flutter/flutter](https://github.com/flutter/flutter)  
 
 </details>
 <!--END_SECTION:activity-->
