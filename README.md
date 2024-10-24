@@ -37,6 +37,17 @@
 
 <p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
+##### [⚡](https://wakatime.com/@ChunhThanhDe) Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+
+
+<!--END_SECTION:activity-->
+
 <div align="center">
   <a href="https://ChunhThanhDe.github.io"><img src="https://github-profile-trophy.vercel.app/?username=chunhthanhde&title=Stars,Commits,Repositories,Followers,Experience,Issues,PullRequest,Reviews&theme=gruvbox" alt="chunhthanhde" /></a>
 
