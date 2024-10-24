@@ -40,19 +40,20 @@
 ##### [⚡](https://wakatime.com/@ChunhThanhDe) Recent Activity
 
 <!--START_SECTION:activity-->
+`[10/24 05:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/github-activity-readme](https://github.com/ChunhThanhDe/github-activity-readme)  
 `[10/24 05:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/cheesits456](https://github.com/cheesits456/cheesits456)  
 `[10/24 04:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/24 04:54]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme) to [ChunhThanhDe/github-activity-readme](https://github.com/ChunhThanhDe/github-activity-readme)  
 `[10/24 04:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
+
+<details><summary>Show More</summary>
+
 `[10/24 04:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flutter/io_flip](https://github.com/flutter/io_flip)  
 `[10/24 04:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flutter/flutter](https://github.com/flutter/flutter)  
 `[10/24 04:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred <span title="Private Repo">`🔒ChunhThanhDe/tarot-card-fortune-telling`</span>  
 `[10/24 04:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#200`](https://github.com//vn7n24fzkq/github-profile-summary-cards/issues/200 '[Feature request] Statistics Include organizational repositories and open source contributions in the GitHub Profile Summary API') in [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 `[10/24 04:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/24 04:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)  
-
-<details><summary>Show More</summary>
-
 `[10/24 01:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bizz84/code_with_andrea_flutter](https://github.com/bizz84/code_with_andrea_flutter)  
 `[10/24 00:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ChunhThanhDe/ChunhThanhDe](https://github.com/ChunhThanhDe/ChunhThanhDe)  
 `[10/23 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [Flutter-Journey/Fruit-Cutting-Game](https://github.com/Flutter-Journey/Fruit-Cutting-Game)  
