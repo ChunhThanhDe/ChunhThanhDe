@@ -1,6 +1,7 @@
 # Hello, Chung[🎯](https://wakatime.com/@ChunhThanhDe) here. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)[🌤️](https://github.com/Flutter-Journey/)
 
 [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/ChunhThanhDe)
+[![message](https://img.shields.io/static/v1?label=SendMessage&message=%E2%9D%A4&color=%23594560)](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
 [![ProfileViews](https://komarev.com/ghpvc/?username=ChunhThanhDe&label=Profile%20views&color=594560&style=flat)](https://wakatime.com/@ChunhThanhDe)
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](http://chunhthanhde.github.io/)
 
@@ -31,10 +32,7 @@
 
 <br>
 <details>
-<summary> 🌈 <em>Dive deeper into getting to know me -</em> 
-  <a href="https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new">
-    <img align="center" src="https://img.shields.io/static/v1?label=Send me a message&message=%E2%9D%A4&logo=Mail&color=%23594560">
-  </a>
+<summary> <em>Dive deeper into getting to know me</em> 🌈
 </summary>
  
 ---
