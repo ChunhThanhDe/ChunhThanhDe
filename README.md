@@ -32,7 +32,7 @@
 
 <br>
 <details>
-<summary> <em>Dive deeper into getting to know me</em> 🌈
+<summary> <em> Dive deeper into getting to know me</em> 🌈
 </summary>
  
 ---
