@@ -145,7 +145,7 @@ My unwavering dedication sets me apart - meticulous, driven, and supportive, alw
 
 📫 How to reach me **chunhthanhde.dev@gmail.com** or connect me via 🔻
 
-[![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
+[![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=googlemessages&logoColor=white)](https://join.skype.com/invite/rdKrZGo3Mdk1)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chunhthanhde)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chunhthanhde/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chunhthanhde.dev@gmail.com)
