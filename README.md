@@ -27,10 +27,15 @@
 
 <!--END_SECTION:waka-->
 
+#### 🕹️ Some Cool Stuff I've Built 
+
+- **[Tarot Card Fortune Telling](https://chunhthanhde.github.io/tarot-card-fortune-telling/):** Explore the mystical world of tarot cards and discover your fortune. ✨  
+- **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/):** A fun and interactive game where you can slice fruits like a pro! 🍉🍓  
+
+Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) what you think! 🤪
 
 <!-- More Information Details Myself -->
 
-<br>
 <details>
 <summary> <em> Dive deeper into getting to know me</em> 🌈
 </summary>
