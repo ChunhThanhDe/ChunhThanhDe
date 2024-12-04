@@ -8,7 +8,7 @@
 <a href="https://github.com/Flutter-Journey/" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/gif-black.gif">
-        <img align="right" width="200px" height="200px" alt="side_sticker" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/gif-light.gif" />
+        <img align="right" width="200px" height="200px" alt="side_sticker" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/gif-white.gif" />
     </picture>
 </a>
 
