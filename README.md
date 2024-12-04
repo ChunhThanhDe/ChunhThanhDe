@@ -6,8 +6,12 @@
 [![GitHub](https://img.shields.io/github/followers/ChunhThanhDe?label=follow&style=social)](http://chunhthanhde.github.io/)
 
 <a href="https://github.com/Flutter-Journey/" target="_blank">
-    <img align="right" width="200px" height="200px" alt="side_sticker" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnptaHM4c3djd3dkeTUyZXdieXUzMTAxajFsa2I5MnRsZGk5bTc0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7RO4lHzuZRcbhET4qc/giphy.gif" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/gif-black.gif">
+        <img align="right" width="200px" height="200px" alt="side_sticker" src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/gif-light.gif" />
+    </picture>
 </a>
+
 
 - 🎯 I have a strong passion for Flutter and Open Source.
 - ⛅ Favorite Quote: "When you strive for something, the whole world will support you."
