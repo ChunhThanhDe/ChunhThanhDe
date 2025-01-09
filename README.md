@@ -82,13 +82,15 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
   <td width="50%" align="center">
     <img  align="center" alt=""  src="https://leetcard.jacoblin.cool/ChunhThanhDe?theme=dark&font=ABeeZee&ext=heatmap" />
     <br></br>
-    <img align="center" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" /> 
+    <img align="center" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" />
+    <br></br>
   </td>
   
   <td width="50%" align="center">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChunhThanhDe&theme=dark" alt="1999AZZAR :: Top Langs by repo" />
     <br></br>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChunhThanhDe&theme=dark" alt="1999AZZAR :: Top Langs by commit" />
+    <br></br>
   </td>
 </tr>
 </table>
