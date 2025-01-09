@@ -61,6 +61,8 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://wakatime.com/@ChunhThanhDe)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://wakatime.com/@ChunhThanhDe)
 
+
+
 <p> If you are looking for a developer in Flutter development, capable of bringing value to your organization, then perhaps I am the piece of the puzzle your organization needs to find. Nice to meet you. I am ready to take on new challenges with great contributions and worthy compensation. </p>
 
 <div align="center">
@@ -78,9 +80,9 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">
-    <img  align="center"  src="https://leetcard.jacoblin.cool/ChunhThanhDe?theme=dark&font=ABeeZee&ext=heatmap" />
+    <img  align="center" alt=""  src="https://leetcard.jacoblin.cool/ChunhThanhDe?theme=dark&font=ABeeZee&ext=heatmap" />
     <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" /> 
+    <img align="center" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" /> 
   </td>
   
   <td width="50%" align="center">
@@ -90,20 +92,50 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
   </td>
 </tr>
 </table>
+
+<div align="center">
+
+##### _Overview Journey 🏆_
+
+</div>
 <!--- stats (end) -->
 
 <br>
 
-<!--- trophy (start) -->
+<!--- waka (start) -->
 <div align=center>
-  <a href="https://chunhthanhde.github.io" title="Go to Source">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChunhThanhDe&theme=dark" alt="TROPHY" />
+  <a href="https://wakatime.com/@ChunhThanhDe" title="Go to Source">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChunhThanhDe\&layout=compact&theme=dark" alt="" />
     </a>
 </div>
-<!--- trophy (start) -->
+
+<div align=center>
+
+##### _Fight Every Week ⚔_
+ 
+</div>
+<!--- waka (end) -->
+
+<br>
+
+
+<!--- profile (start) -->
+<div align=center>
+  <a href="https://chunhthanhde.github.io" title="Go to Source">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChunhThanhDe&theme=dark" alt="" />
+    </a>
+</div>
+
+<div align=center>
+    
+##### _Looking back 1 year ✨_
+
+</div>
+
+<!--- profile (end) -->
 
 </p>        
-<!--- stats (end) -->
+<!--- stats & Trophy (end) -->
 
 ### [✨](https://wakatime.com/@ChunhThanhDe) How I Work
 
