@@ -51,7 +51,7 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
 <be>
  
 <a href="https://www.linkedin.com/in/chunhthanhde/">
- <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/media/avatar.png" align="center" width="85px" alt=" Chung Nguyễn Thành">
+ <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/main/media/avatar.png" align="center" height="90px" alt=" Chung Nguyễn Thành">
 </a>
 
 ##### *Chung Nguyen Thanh - ChunhThanhDe* [🎯](https://wakatime.com/@ChunhThanhDe)
