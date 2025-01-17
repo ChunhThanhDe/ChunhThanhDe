@@ -82,7 +82,7 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
   <td width="50%" align="center">
     <img  align="center" alt=""  src="https://leetcard.jacoblin.cool/ChunhThanhDe?theme=dark&font=ABeeZee&ext=heatmap" />
     <br></br>
-    <img align="center" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=ChunhThanhDe&theme=dark&hide_border=false" />
+    <img align="center" alt="" src="https://github-readme-streak-stats-eight.vercel.app/?user=ChunhThanhDe&theme=dark&hide_border=false" />
     <br></br>
   </td>
   
