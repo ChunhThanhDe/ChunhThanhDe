@@ -38,6 +38,8 @@
 
 Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) what you think! 
 
+Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) Drop me a line if you’d like to chat or collaborate on tech. 
+
 <!-- More Information Details Myself -->
 
 <details>
