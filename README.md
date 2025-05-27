@@ -33,8 +33,14 @@
 
 #### 🕹️ Some Cool Stuff I've Built 
 
+<!-- 
 - **[Tarot Card Fortune Telling](https://chunhthanhde.github.io/tarot-card-fortune-telling/):** Explore the mystical world of tarot cards and discover your fortune. 🔮
-- **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/):** A fun and interactive game where you can slice fruits like a pro! 🍉  
+- **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/):** A fun and interactive game where you can slice fruits like a pro! 🍉
+ -->
+
+| ![Tarot Card Fortune Telling](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Tarot-Telling/tarot.png) | ![Fruit Cutting Game](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Cutting%20Food/fruit.png) |
+| :--: | :--: |
+| **[Tarot Card Fortune Telling](https://chunhthanhde.github.io/tarot-card-fortune-telling/)** <br> Explore the mystical world of tarot cards and discover your fortune. <br> 🔮 | **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/)** <br> A fun and interactive game where you can slice fruits like a pro! <br> 🍉 |
 
 Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) what you think! 
 
