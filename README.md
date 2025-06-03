@@ -1,4 +1,4 @@
-# Hello, Chung here 🎯. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)
+# Hello, Chung here  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/happy_cat.gif" width="50">🎯. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)
 
 [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/ChunhThanhDe)
 [![message](https://img.shields.io/static/v1?label=SendMessage&message=%E2%9D%A4&color=%23594560)](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
@@ -13,8 +13,8 @@
 </a>
 
 
-- I have a strong passion for Flutter and Open Source.
-- Favorite Quote: "When you strive for something, the whole world will support you."
+- I have a strong passion for Flutter and Open Source.  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/cat_work.gif" width="30">
+- Favorite Quote: "When you strive for something, the whole world will support you.
 - Fun fact: I love programming so much that I create programs to automate daily tasks.
 
 <!--START_SECTION:waka-->
@@ -31,18 +31,23 @@
 
 <!--END_SECTION:waka-->
 
-#### 🕹️ Some Cool Stuff I've Built 
+#### <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/hungry_cat.gif" width="25"> Some Cool Stuff I've Built 
 
 <!-- 
 - **[Tarot Card Fortune Telling](https://chunhthanhde.github.io/tarot-card-fortune-telling/):** Explore the mystical world of tarot cards and discover your fortune. 🔮
 - **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/):** A fun and interactive game where you can slice fruits like a pro! 🍉
  -->
 
-| ![Tarot Card Fortune Telling](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Tarot-Telling/tarot.png) | ![Fruit Cutting Game](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Cutting%20Food/fruit.png) |
+| [![Tarot Card Fortune Telling](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Tarot-Telling/tarot.png)](https://chunhthanhde.github.io/tarot-card-fortune-telling/) | [![Fruit Cutting Game](https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhde-Project/refs/heads/main/Personal%20Project/Cutting%20Food/fruit.png)](https://flutter-journey.github.io/Fruit-Cutting-Game/) |
 | :--: | :--: |
 | **[Tarot Card Fortune Telling](https://chunhthanhde.github.io/tarot-card-fortune-telling/)** <br> Explore the mystical world of tarot cards and discover your fortune. 🔮 | **[Fruit Cutting Game](https://flutter-journey.github.io/Fruit-Cutting-Game/)** <br> A fun and interactive game where you can slice fruits like a pro! 🍉 |
 
+
+<br>
+
 Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) what you think! 
+
+<img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/happy_elieve_.gif" width="50">
 
 Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) Drop me a line if you’d like to chat or collaborate on tech. 
 
