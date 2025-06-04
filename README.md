@@ -1,4 +1,4 @@
-# Hello, Chung here  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/happy_cat.gif" width="50">🎯. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)
+# Hello, Chung here  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/happy_cat.gif" width="50">. Have a nice day! [🌤️](https://www.linkedin.com/in/chunhthanhde/)[🌤️](https://chunhthanhde.hashnode.dev/)
 
 [![Github Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23594560)](https://github.com/sponsors/ChunhThanhDe)
 [![message](https://img.shields.io/static/v1?label=SendMessage&message=%E2%9D%A4&color=%23594560)](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new)
