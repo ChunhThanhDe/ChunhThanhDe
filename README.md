@@ -54,7 +54,7 @@ Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issu
 <!-- More Information Details Myself -->
 
 <details>
-<summary> <em> Dive deeper into getting to know me </em> <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/work.gif" width="25">
+<summary> <em> Dive deeper into getting to know me   <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/work.gif" width="25"></em>
 </summary>
  
 ---
