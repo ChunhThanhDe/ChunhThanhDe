@@ -49,12 +49,12 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
 
 <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/happy_elieve_.gif" width="50">
 
-Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) Drop me a line if you’d like to chat or collaborate on tech. 
+Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) Drop me a line if you’d like to chat or collaborate on tech.  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/cat_space.gif" width="40">
 
 <!-- More Information Details Myself -->
 
 <details>
-<summary> <em> Dive deeper into getting to know me</em> 🤪
+<summary> <em> Dive deeper into getting to know me </em> <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/work.gif" width="25">
 </summary>
  
 ---
