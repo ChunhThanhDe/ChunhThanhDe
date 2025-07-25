@@ -51,6 +51,8 @@ Check them out and [let me know](https://github.com/ChunhThanhDe/ChunhThanhDe/is
 
 Thanks for stopping by! [📧](https://github.com/ChunhThanhDe/ChunhThanhDe/issues/1#issuecomment-new) Drop me a line if you’d like to chat or collaborate on tech.  <img src="https://raw.githubusercontent.com/ChunhThanhDe/ChunhThanhDe/refs/heads/main/media/cat_space.gif" width="40">
 
+> If you want to support me, help me sub my YouTube channel [CHUNGCINE](https://www.youtube.com/@CHUNGCINE?sub_confirmation=1). Thank you so much <3 
+
 <!-- More Information Details Myself -->
 
 <details>
